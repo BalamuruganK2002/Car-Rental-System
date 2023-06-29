@@ -1,0 +1,12 @@
+Specifications:
+
+City Mileage 17.19 kmpl
+Fuel Type Diesel
+Engine Displacement (cc) 2198
+No. of cylinder 4
+Max Power (bhp@rpm)182.38bhp@3500rpm
+Max Torque (nm@rpm)450Nm@1750-2800rpm
+Seating Capacity 5, 7
+TransmissionType Automatic
+Fuel Tank Capacity 60.0
+Body Type SUV

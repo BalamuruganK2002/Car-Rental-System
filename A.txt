@@ -1,0 +1,12 @@
+Specifications:
+
+ARAI Mileage 20.6 kmpl
+Fuel Type Petrol
+Engine Displacement (cc)1482
+No. of cylinder 4
+Max Power (bhp@rpm)157.57bhp@5500rpm
+Max Torque (nm@rpm)253Nm@1500-3500rpm
+Seating Capacity 5
+TransmissionType Automatic
+Fuel Tank Capacity 45.0
+Body Type Sedan
